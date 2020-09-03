@@ -1,4 +1,4 @@
-# Covid_maps_and_Analys
+# Covid_maps_and_Analysis
 
 This project generates US maps for confirmed COVID cases per day per state for 60 days 
 and percent increase in confirmed cases per day per state for 60 days
