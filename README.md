@@ -9,5 +9,5 @@ Find below the brief summary of the project:-
 -Data for the 48 US states have been merged with the US shape file (48 states)
 -Loops are defined with color breaks to assign color to the US states for the confirmed cases 
  per day per state and percent increase in confirmed cases per day per state
--60 maps (for 60 days) are generated of each scenario and saved to different folders
+-60 maps (for 60 days) are generated for each scenario and saved to different folders
 -Packages - Readr, Rgdal, Rgeos, Ggplot2, Tmap
