@@ -1,4 +1,4 @@
-# Covid_maps_and_Analysiscase
+# Covid_maps_and_Analys
 
 This project generates US maps for confirmed COVID cases per day per state for 60 days 
 and percent increase in confirmed cases per day per state for 60 days
@@ -10,3 +10,4 @@ Find below the brief summary of the project:-
 -Loops are defined with color breaks to assign color to the US states for the confirmed cases 
  per day per state and percent increase in confirmed cases per day per state
 -60 maps (for 60 days) are generated of each scenario and saved to different folders
+-Packages - Readr, Rgdal, Rgeos, Ggplot2, Tmap
